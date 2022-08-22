@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @holozone my commercial site is holozone.de
-- 👀 I’m interested in C/C++, Mikrocontroller, Linux, Photonics, Holography, Electronics, Physics
+- 👋 Hi, I’m @holozone, my commercial site is holozone.de
+- 👀 I’m working on C/C++, Mikrocontroller, Linux, Photonics, Holography, Electronics, Physics
 - 🌱 I’m currently learning about quantum computing
 - 💞️ I’m looking to collaborate on Open-Source-Software
 - 📫 How to reach me: marcus.werner@holozone.de
